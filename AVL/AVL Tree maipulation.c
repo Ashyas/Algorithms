@@ -1,9 +1,10 @@
 /* 
 
-		Author: Asher Yasia, ID: 310273370
+		Author: Asher Yasia
 		
-		This program makes a BST tree and checks whether  or not is balanced, 
-		rotates it if it's needed and prints the nodes
+		This program makes a BST tree, checks whether or not a given tree is AVL balanced, 
+		and conducts rotations upon the tree if the balance factor has been violated.
+		The menu contains several printing methods (inorder, preorder,levelorder, postorder) as well as adding and removing nodes.
 		
 */
 
